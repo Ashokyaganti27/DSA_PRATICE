@@ -1,12 +1,12 @@
 # 📘 DSA Practice Log
 
-This is my daily practice tracker for Data Structures and Algorithms. I’m solving **3 problems every day** and learning DSA topic by topic in a clear, consistent way.
+This is my daily practice tracker for Data Structures and Algorithms. I’m solving **2 or 3 problems every day** and learning DSA topic by topic in a clear, consistent way.
 
 ---
 
 ## 📅 Daily Practice Plan
 
-- 🧠 Solve **3 problems per day**
+- 🧠 Solve **2 or 3 problems per day**
   - Mix of Easy, Medium, and Hard
   - Rotating pattern: `2E+1M`, `2M+1E`, `1E+1M+1H`
 - ✅ After solving, I study the next topic and repeat
